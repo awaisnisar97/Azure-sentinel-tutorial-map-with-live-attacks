@@ -1,4 +1,4 @@
-<h1>Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion</h1>
+<h1>Azure sentinel tutorial map with live attack</h1>
 
 <h2>Description</h2>
 Project consists of creating a vulnerable virtual machine within azure and using sentinel to display geographical data of live attacks on a map. <br />
