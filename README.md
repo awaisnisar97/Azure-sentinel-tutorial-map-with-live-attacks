@@ -44,7 +44,7 @@ The culmination of this undertaking involved the design and configuration of a g
 
 <img src="https://imgur.com/45W2dZz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<br /> This project underlines the global prevalence of cyber threats and the paramount significance of robust security measures. As evidenced by the discovery of over 7,000 failed login attempts in Cambodia, cyber attacks are an omnipresent and persistent concern worldwide. This sobering statistic serves as a stark reminder that organisations and individuals must remain vigilant in safeguarding their digital assets. Configuring and maintaining effective firewalls is a pivotal step towards fortifying the security posture, as it acts as the first line of defence against unauthorised access and malicious activities. The project's findings emphasize the imperative of continuous vigilance and proactive security strategies in an era where cyber threats transcend geographical 
+<br /> This project underlines the global prevalence of cyber threats and the paramount significance of robust security measures. As evidenced by the discovery of over 7,000 failed login attempts in Cambodia, cyber attacks are an omnipresent and persistent concern worldwide. This sobering statistic serves as a stark reminder that organisations and individuals must remain vigilant in safeguarding their digital assets. Configuring and maintaining effective firewalls is a pivotal step towards fortifying security posture, as it acts as the first line of defence against unauthorised access and malicious activities. The project's findings emphasize the imperative of continuous vigilance and proactive security strategies in an era where cyber threats transcend geographical boundaries. 
 
 
 
