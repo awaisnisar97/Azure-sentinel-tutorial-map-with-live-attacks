@@ -31,7 +31,7 @@ To delve deeper into the security event data, the Event Viewer utility was emplo
 
 In tandem, the implementation of Azure Sentinel, a Microsoft-native Security Information and Event Management (SIEM) solution, was carried out. Azure Sentinel was strategically integrated into the architecture to facilitate the comprehensive analysis and correlation of attack data originating from diverse sources.
 
-To extract critical information, including IP addresses, from the Windows logs, PowerShell scripts were deployed within the virtual machine. Subsequently, this information was transmitted to a third-party application via a custom Application Programming Interface (API) key obtained from ipgeolocation.io. This API key enabled the precise geolocation data to be appended to the information and transmitted back to the virtual machine, thereby enhancing the context of the logs.
+To extract critical information, including IP addresses, from the Windows logs, PowerShell scripts were deployed within the virtual machine. Disclaimer: The sript was acquired for this purpose. Subsequently, this information was transmitted to a third-party application via a custom Application Programming Interface (API) key obtained from ipgeolocation.io. This API key enabled the precise geolocation data to be appended to the information and transmitted back to the virtual machine, thereby enhancing the context of the logs.
 
 <img src="https://imgur.com/VfccwR6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
